@@ -1,6 +1,6 @@
 ### Hi there, i'm Williams! 👋
-<a href="https://github-readme-stats.vercel.app/api?username=idyWilliams&theme=radical">
-  <img height="200px"  align="center" src="https://github-readme-stats.vercel.app/api?username=idyWilliams&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true&theme=radical">
+  <img height="200px"  align="center" src="https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact" />
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true)
+
