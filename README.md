@@ -1,4 +1,10 @@
 ### Hi there, i'm Williams! 👋
+<a href="https://github-readme-stats.vercel.app/api?username=idyWilliams&theme=radical">
+  <img height="200px"  align="center" src="https://github-readme-stats.vercel.app/api?username=idyWilliams&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact" />
+</a>
 
 <!--
 **idyWilliams/idyWilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idyWilliams&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true)
