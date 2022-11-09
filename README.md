@@ -1,9 +1,9 @@
 ### Hi there, i'm Williams! 👋
 <a href="https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true&theme=radical">
-  <img height="200px" width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true&theme=radical" />
+  <img  width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=idyWilliams&count_private=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact" />
+  <img  width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idyWilliams&layout=compact" />
 </a>
 
 <!--
